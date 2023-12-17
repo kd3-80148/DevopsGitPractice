@@ -1,0 +1,8 @@
+{
+    "server" : "localhost",
+    "database": "kdac",
+    "user":"KD3_80148_Unnati",
+    "password":"manager",
+    "port": 4000
+
+}
